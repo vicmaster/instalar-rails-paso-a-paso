@@ -6,7 +6,7 @@
 
 ## Que es esto?
 
-**Instala Rails**, InstallRails.com es el camino facil para instalar rails en tu computadora. *web developers*.
+**Instala Rails**, InstallRails.com es el camino facil para instalar rails en tu computadora.
 
 ## Como funciona?
 
@@ -24,3 +24,11 @@ Claro! Esta guia te muestra como instalar rails y sus gemas relacionas en cada s
 ### Que tienes que instalar?
 
 Rails, Git, SQLite, RVM, Rails Installer, Sublime Text and in some cases XCode.
+
+### Quien hizo esto?
+
+@mattangriffel , @castig , @gdi2290s y todos en One Month Rails
+
+### Quien lo tradujo?
+
+@vicmaster, @zazvick
